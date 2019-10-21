@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/spencerv_web/static/css/main.1d2d2897.chunk.css",
-    "main.js": "/spencerv_web/static/js/main.53f243d4.chunk.js",
-    "main.js.map": "/spencerv_web/static/js/main.53f243d4.chunk.js.map",
-    "runtime-main.js": "/spencerv_web/static/js/runtime-main.6e643197.js",
-    "runtime-main.js.map": "/spencerv_web/static/js/runtime-main.6e643197.js.map",
-    "static/js/2.4a1df924.chunk.js": "/spencerv_web/static/js/2.4a1df924.chunk.js",
-    "static/js/2.4a1df924.chunk.js.map": "/spencerv_web/static/js/2.4a1df924.chunk.js.map",
-    "index.html": "/spencerv_web/index.html",
-    "precache-manifest.51fb55d0372dd396ec88e4fa3e08a774.js": "/spencerv_web/precache-manifest.51fb55d0372dd396ec88e4fa3e08a774.js",
-    "service-worker.js": "/spencerv_web/service-worker.js",
-    "static/css/main.1d2d2897.chunk.css.map": "/spencerv_web/static/css/main.1d2d2897.chunk.css.map"
+    "main.css": "www.spencerv.dev/static/css/main.1d2d2897.chunk.css",
+    "main.js": "www.spencerv.dev/static/js/main.53f243d4.chunk.js",
+    "main.js.map": "www.spencerv.dev/static/js/main.53f243d4.chunk.js.map",
+    "runtime-main.js": "www.spencerv.dev/static/js/runtime-main.251ee6a5.js",
+    "runtime-main.js.map": "www.spencerv.dev/static/js/runtime-main.251ee6a5.js.map",
+    "static/js/2.4a1df924.chunk.js": "www.spencerv.dev/static/js/2.4a1df924.chunk.js",
+    "static/js/2.4a1df924.chunk.js.map": "www.spencerv.dev/static/js/2.4a1df924.chunk.js.map",
+    "index.html": "www.spencerv.dev/index.html",
+    "precache-manifest.4c73beecd33b00755d972707c66e46fd.js": "www.spencerv.dev/precache-manifest.4c73beecd33b00755d972707c66e46fd.js",
+    "service-worker.js": "www.spencerv.dev/service-worker.js",
+    "static/css/main.1d2d2897.chunk.css.map": "www.spencerv.dev/static/css/main.1d2d2897.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e643197.js",
+    "static/js/runtime-main.251ee6a5.js",
     "static/js/2.4a1df924.chunk.js",
     "static/css/main.1d2d2897.chunk.css",
     "static/js/main.53f243d4.chunk.js"
