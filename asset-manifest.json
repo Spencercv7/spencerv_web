@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/spencer_web/static/css/main.1d2d2897.chunk.css",
-    "main.js": "/spencer_web/static/js/main.53f243d4.chunk.js",
-    "main.js.map": "/spencer_web/static/js/main.53f243d4.chunk.js.map",
-    "runtime-main.js": "/spencer_web/static/js/runtime-main.2f0bd14e.js",
-    "runtime-main.js.map": "/spencer_web/static/js/runtime-main.2f0bd14e.js.map",
-    "static/js/2.4a1df924.chunk.js": "/spencer_web/static/js/2.4a1df924.chunk.js",
-    "static/js/2.4a1df924.chunk.js.map": "/spencer_web/static/js/2.4a1df924.chunk.js.map",
-    "index.html": "/spencer_web/index.html",
-    "precache-manifest.c85a1ca3399f7ffd0a4b3a149d1ea196.js": "/spencer_web/precache-manifest.c85a1ca3399f7ffd0a4b3a149d1ea196.js",
-    "service-worker.js": "/spencer_web/service-worker.js",
-    "static/css/main.1d2d2897.chunk.css.map": "/spencer_web/static/css/main.1d2d2897.chunk.css.map"
+    "main.css": "/spencerv_web/static/css/main.1d2d2897.chunk.css",
+    "main.js": "/spencerv_web/static/js/main.53f243d4.chunk.js",
+    "main.js.map": "/spencerv_web/static/js/main.53f243d4.chunk.js.map",
+    "runtime-main.js": "/spencerv_web/static/js/runtime-main.6e643197.js",
+    "runtime-main.js.map": "/spencerv_web/static/js/runtime-main.6e643197.js.map",
+    "static/js/2.4a1df924.chunk.js": "/spencerv_web/static/js/2.4a1df924.chunk.js",
+    "static/js/2.4a1df924.chunk.js.map": "/spencerv_web/static/js/2.4a1df924.chunk.js.map",
+    "index.html": "/spencerv_web/index.html",
+    "precache-manifest.51fb55d0372dd396ec88e4fa3e08a774.js": "/spencerv_web/precache-manifest.51fb55d0372dd396ec88e4fa3e08a774.js",
+    "service-worker.js": "/spencerv_web/service-worker.js",
+    "static/css/main.1d2d2897.chunk.css.map": "/spencerv_web/static/css/main.1d2d2897.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f0bd14e.js",
+    "static/js/runtime-main.6e643197.js",
     "static/js/2.4a1df924.chunk.js",
     "static/css/main.1d2d2897.chunk.css",
     "static/js/main.53f243d4.chunk.js"
