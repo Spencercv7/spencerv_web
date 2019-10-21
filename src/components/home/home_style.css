@@ -23,13 +23,7 @@
       margin: 16px;
 }
 
-#wrap_div {
-      width: auto;
-      height: auto;
-      background-color: #efdab9;
-      box-shadow: #E58162 3px 3px;
-}
-
-.home_box_container {
-      background-color: white;
+#home_background_animation {
+      width: 100vw;
+      height: 100vh;
 }
