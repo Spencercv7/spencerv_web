@@ -6,6 +6,10 @@
 
 @media screen and (min-width: 0px) {
 
+      .header_title {
+            padding: 10% 10% 40% 10%;
+      }
+
       h2 {
             font-size: 20px;
             font-weight: 350;
@@ -79,6 +83,10 @@
 
 @media screen and (min-width: 700px) {
 
+      .header_title {
+            padding: 20% 10% 40% 10%;
+      }
+
       h2 {
             font-size: 50px;
             font-weight: 350;
@@ -96,6 +104,10 @@
 }
 
 @media screen and (min-width: 1000px) {
+
+      .header_title {
+            padding: 20% 10% 40% 10%;
+      }
 
       h2 {
             font-size: 80px;
