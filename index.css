@@ -5,14 +5,14 @@
 }
 
 h2 {
-      font-size: 3.5vw;
+      font-size: 3.5em;
       font-weight: 400;
       font-stretch: normal;
       text-shadow:#E58162 0.05em -0.05em;
 }
 
 h6 {
-      font-size: 2vw;
+      font-size: 2em;
       font-weight: 100;
       font-stretch: normal;
 }
