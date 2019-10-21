@@ -1,8 +1,8 @@
 {
-  "homepage": "www.spencerv.dev",
   "name": "spencerv_web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Spencercv7.github.io/spencerv_web/",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
