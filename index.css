@@ -6,22 +6,16 @@
 
 @media screen and (min-width: 0px) {
 
-      .header_title {
-            padding: 10% 10% 40% 10%;
-      }
 
       h2 {
             font-size: 20px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 14px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
@@ -31,15 +25,12 @@
       h2 {
             font-size: 25px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 17px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
@@ -49,15 +40,12 @@
       h2 {
             font-size: 33px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 20px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
@@ -68,59 +56,43 @@
       h2 {
             font-size: 40px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 25px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
 
 @media screen and (min-width: 700px) {
 
-      .header_title {
-            padding: 20% 10% 40% 10%;
-      }
 
       h2 {
             font-size: 50px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 30px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
 
 @media screen and (min-width: 1000px) {
 
-      .header_title {
-            padding: 20% 10% 40% 10%;
-      }
-
       h2 {
             font-size: 80px;
             font-weight: 350;
-            font-stretch: normal;
-            text-shadow:#E58162 0.05em -0.05em;
       }
 
 
       h6 {
             font-size: 50px;
             font-weight: 100;
-            font-stretch: normal;
       }
 
 }
