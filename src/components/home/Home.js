@@ -1,8 +1,9 @@
-import React from 'react'
-import ReactDom from 'react-dom'
-import './home_style.css'
+import React from 'react';
+import ReactDom from 'react-dom';
+import './home_style.css';
 import P5Wrapper from 'react-p5-wrapper';
-import sketch from './js/Home_Back_Sketch'
+import sketch from './js/Home_Back_Sketch';
+
 
 class Home extends React.Component {
       
@@ -11,11 +12,12 @@ class Home extends React.Component {
             return (
               <div id="home_container">
                   <div class= "header_title">
-                        <h2>SPENCER VENABLE.</h2>
-                        <h6>Software Developer</h6>
+                        <h2>SPENCER VENABLE</h2>
+                        <h6>software developer</h6>
                   </div>
-                  <nav class="main_nav"></nav>
-                  <P5Wrapper id="home_background_animation" sketch={sketch}></P5Wrapper>
+                  <div id="home_background_animation">
+                              <P5Wrapper sketch={sketch}></P5Wrapper>
+                  </div>
               </div>   
             );
       }

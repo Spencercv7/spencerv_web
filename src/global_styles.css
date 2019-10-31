@@ -1,0 +1,210 @@
+.content_area {
+      margin: 0;
+      padding: 64px 10%;
+      width: 100;
+      background-color: #EEE8D5 ;
+}
+
+h4 {
+      color: #073642 ;
+      text-decoration: underline  #B58900;
+}
+
+@media screen and (min-width: 0px) and (max-width: 299px) {
+
+
+      h2 {
+            font-size: 1em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 0.75em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 0.75em;
+      }
+
+
+      li {
+            font-size: 0.5em;
+      }
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 399px) {
+
+      h2 {
+            font-size: 1.5em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 1em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 0.85em;
+      }
+      
+
+      li {
+            font-size: 0.55em;
+      }
+
+}
+
+@media screen and (min-width: 400px) and (max-width: 499px) {
+
+      h2 {
+            font-size: 2em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 1.25em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 1.1em;
+      }
+      
+
+      li {
+            font-size: 0.60em;
+      }
+
+
+}
+
+
+@media screen and (min-width: 500px) and (max-width: 699px) {
+
+      h2 {
+            font-size: 2.5em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 1.5em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 1.35em;
+      }
+      
+
+      li {
+            font-size: 0.65em;
+      }
+
+}
+
+@media screen and (min-width: 700px) and (max-width: 849px) {
+
+
+      h2 {
+            font-size: 3em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 2em;
+            font-weight: 100;
+      }
+
+      
+      h4 {
+            font-size: 1.70em;
+      }
+      
+
+      li {
+            font-size: 0.70em;
+      }
+
+}
+
+@media screen and (min-width: 850px) and (max-width: 999px) {
+
+
+      h2 {
+            font-size: 3.5em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 2.5em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 1.85em;
+      }
+      
+
+      li {
+            font-size: 0.75em;
+      }
+
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1399px) {
+
+      h2 {
+            font-size: 4em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 3em;
+            font-weight: 100;
+      }
+
+      h4 {
+            font-size: 2em;
+      }
+      
+
+      li {
+            font-size: 0.9em;
+      }
+
+}
+
+@media screen and (min-width: 1400px) {
+
+      h2 {
+            font-size: 4.5em;
+            font-weight: 350;
+      }
+
+
+      h6 {
+            font-size: 3.5em;
+            font-weight: 100;
+      }
+
+      
+      h4 {
+            font-size: 2.3em;
+      }
+      
+
+      li {
+            font-size: 1.1em;
+      }
+
+}

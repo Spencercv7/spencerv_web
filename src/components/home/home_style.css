@@ -1,29 +1,50 @@
+/* Colors:
+      #3E4E56 - Darker Blue
+      #63757B - Lighter Blue
+      #F1F2EB - White
+      #FE938C - Pink
+      #A2B192 - Green
+
+ */
+
 #home_container {
       width: 100vw;
-      height: 100vh;
+      height: 70vh;
       display: flex;
       text-align: right;
       justify-content: flex-end;
       align-content: right;
       align-items: center;
-      background-color: #112118;
+}
+
+
+h2 {
+      text-shadow:  #B58900 0.041em -0.041em;
+}
+
+
+h6 {
+      color:#B58900;
 }
 
 
 .header_title {
-      color: #CCDDCE;
+      color: #EEE8D5;
+      white-space: nowrap;
       font-weight: 300;
       font-stretch: normal;
       font-size: 16px;
       line-height: 1.5;
       font-weight: 300;
-      color: #efdab9;
+      padding: 0 10% 10% 10%;
+      margin: 0 5% 0 0;
       height: auto;
-      padding: 15% 15% 40%;
-      margin: 16px;
 }
 
+
 #home_background_animation {
+      position: absolute;
       width: 100vw;
       height: 100vh;
+      z-index: -1;
 }
